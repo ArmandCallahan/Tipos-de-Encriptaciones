@@ -19,6 +19,8 @@ En criptografía, el cifrado César, también conocido como cifrado por desplaza
 <h1>Cifrado Hill</h1>
 
 <strong>Para el ejemplo del Cifrado Hill, se crea una Matriz que pueda ser inversa, se genera una cadena encriptada y una matriz para Desenciptar.</strong>
-Si encriptas una cadena que diga "Hola Mundo"
 <br></br>
+<p>Si encriptas una cadena que diga "Hola Mundo"
+
 Este algoritmo data de 1929 cuando es dado a conocer por su creador, el matemático Lester S. Hill a través de un artículo publicado en el diario de Nueva York. Dicho algoritmo se basa en el uso de álgebra lineal, específicamente las reglas del álgebra de matrices con la intención de mejorar las técnicas de cifrado utilizadas entonces, objetivo que cumple satisfactoriamente y que permite trabajar de manera práctica con tres o más símbolos de manera simultánea
+</p>
